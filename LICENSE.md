@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 <a href="mailto:shehabw126@gmail.com" target="_blank">Shehab Lotfallah</a>
+Copyright (c) 2023 <shehab-dev@outlook.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
