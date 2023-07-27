@@ -2,7 +2,8 @@
 
 ### Unity Game Developmet  <q>4 LEVELS</q> [Icy-Tower-Game](https://clipchamp.com/watch/3puyFuMeCUH)
 <br/>
-<img src="https://github.com/shehablotfallah/Icy-Tower-Game/assets/117580649/8816066b-4fd5-470d-974e-0401d175659c" width="100%"/>
+<br/>
+<img src="https://github.com/shehablotfallah/Icy-Tower-Game/assets/117580649/8816066b-4fd5-470d-974e-0401d175659c" />
 
 ##### by Team
 <ul>
